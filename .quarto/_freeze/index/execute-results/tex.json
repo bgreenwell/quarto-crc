@@ -1,0 +1,10 @@
+{
+  "hash": "7cf151d6112657c480caf4b65b3eb4e9",
+  "result": {
+    "markdown": "# Preface {.unnumbered}\n\nThis is a Quarto book.\n\n\n## Software conventions {.unnumbered}\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n2\n```\n:::\n:::\n\n\nTo learn more about Quarto books visit <https://quarto.org/docs/books>.\n\n\n## Acknowledgments {.unnumbered}\n\nBlah, blah, blah...\n\n\n\\mainmatter\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": []
+  }
+}

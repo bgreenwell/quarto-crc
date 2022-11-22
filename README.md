@@ -1,0 +1,9 @@
+# A Quarto book example for Chapman & Hall/CRC books
+
+This is a minimal example for those who plan to write books for Chapman & Hall/CRC using [Quarto](https://quarto.org/docs/books/). The rendered PDF can be found in the `_book/` directory.
+
+
+**TODO**
+
+* Fix repeat ToC entries (i.e., Preface and References)
+

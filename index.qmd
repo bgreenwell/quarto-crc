@@ -1,4 +1,4 @@
-# Preface {.unnumbered}
+# Preface {.unnumbered .unlisted}
 
 This is a Quarto book.
 
